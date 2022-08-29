@@ -1,0 +1,34 @@
+.headBlock{
+  height: 20%;
+  width: 100%;
+}
+
+.todoH1{
+  padding: 20px;
+  margin:0px;
+}
+
+.plus{
+  position: absolute;
+  transform: translateX(-50%);
+  width: 80%;
+  height: 32px;
+  padding: 10px;
+  left: 50%;
+  border-radius: 10px;
+  border: none;
+  background-color: #e2e2e2;
+}
+
+.plusBtn{
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  right: 10%;
+  top: 12.8%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: none;
+}
