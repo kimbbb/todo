@@ -1,0 +1,12 @@
+TodoList::-webkit-scrollbar {
+  width: 16px;
+}
+TodoList::-webkit-scrollbar-thumb {
+  background-color: #004DA7B2;
+  border-radius: 10px;
+  background-clip: padding-box;
+}
+TodoList::-webkit-scrollbar-track {
+  background-color: #EFF2F9;
+  border-radius: 10px;
+}

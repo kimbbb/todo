@@ -17,7 +17,8 @@
   left: 50%;
   border-radius: 10px;
   border: none;
-  background-color: #e2e2e2;
+  background-color: #EFF2F9;
+  font-size: 16px;
 }
 
 .plusBtn{
@@ -31,4 +32,8 @@
   justify-content: center;
   border: none;
   background: none;
+}
+
+.plus:focus{
+  outline: 3px solid #569fff80;
 }
